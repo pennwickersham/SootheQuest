@@ -1,0 +1,4 @@
+# GitHub Pages builds this static site with Jekyll. Keep the deployment notes
+# in README.md out of the published site (otherwise it is served as /README.html).
+exclude:
+  - README.md
